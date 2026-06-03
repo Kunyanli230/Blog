@@ -1,5 +1,7 @@
-我叫李昆晏（Kunyan, Kuni, Heath) 。这是我简历的链接【】，我的工作/研究方向是【】。
+我叫李昆晏（Kunyan, Kuni, Heath) 。我的工作/研究方向是【】。
 
-熟知各国信息保护法规（欧洲GDPR，加拿大PIPEDA，香港PDPO），可信执行环境的密码工程（TEE）
+目前在
 
-求职意向：区块链/信息安全 consultant，！
+下面是我开发的一套教程 - 从零开始实现的多节点异步BFT协议：
+Github Repo地址：https://github.com/Kunyanli230/Learn_DumboNG
+
